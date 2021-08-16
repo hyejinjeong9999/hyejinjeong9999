@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hyejin's page&fontSize=80)
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hyejin'spage&fontSize=80)
 
 ![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejinjeong9999&show_icons=true)
 
