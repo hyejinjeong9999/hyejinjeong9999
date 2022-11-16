@@ -28,7 +28,6 @@
 <h2 align="center">🌼Me🌼
 </h2>
 <div align="center">
- <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="hyejinj810@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
